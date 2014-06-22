@@ -1,2 +1,2 @@
-command! AizuHello echomsg "こんにち会津"
+command! AizuHello call aizu#hello()
 
