@@ -1,2 +1,2 @@
-command! AizuHello call aizu#hello()
+command! AizuHello call aizu#hello#hello()
 

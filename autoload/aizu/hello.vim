@@ -1,3 +1,3 @@
-function! aizu#hello()
+function! aizu#hello#hello()
   echomsg "こんにち会津"
 endfunction
